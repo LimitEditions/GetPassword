@@ -1,6 +1,7 @@
 {
-  "name": "getPasword",
+  "name": "get_pasword",
   "version": "1.0.0",
+  "repository": "https://github.com/LimitEditions/GetPassword.git",
   "description": "",
   "main": "index.js",
   "scripts": {
