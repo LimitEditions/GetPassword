@@ -1,6 +1,6 @@
 {
   "name": "get_pasword",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "repository": "https://github.com/LimitEditions/GetPassword.git",
   "description": "",
   "main": "getPassword.js",
@@ -11,6 +11,6 @@
   "author": "LimitEditions",
   "license": "ISC",
   "dependencies": {
-    "get_pasword": "^2.0.0"
+    "get_pasword": "^1.0.0"
   }
 }
